@@ -17,8 +17,8 @@
 * [Active Directory](https://github.com/laughtersec/active-directory)
 
 ## When I can't tell whether I have free time
-* pwn.college
-* HackTheBox
+* [pwn.college](https://pwn.college/hacker/43066)
+* [HackTheBox](https://app.hackthebox.com/profile/1454964)
 * Distro hopping
 * Wasting time with other technology related things.
 * Sleep (?) Eat (?)
@@ -29,5 +29,3 @@
 * Gym
 * Martial Arts
 * Work on this damn site (?)
-
-
