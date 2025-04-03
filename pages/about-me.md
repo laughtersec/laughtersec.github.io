@@ -5,7 +5,9 @@
 # Certs
 * [CRTP](https://www.alteredsecurity.com/adlab)
 * [eJPT](https://security.ine.com/certifications/ejpt-certification/)
+
 # Things I do
+
 ## Outside my free time
 * Prepare for OSCP
 * Job
@@ -13,6 +15,7 @@
 * Component Object Model
 * Windows Internals
 * [Active Directory](https://github.com/laughtersec/active-directory)
+
 ## When I can't tell whether I have free time
 * pwn.college
 * HackTheBox
@@ -20,6 +23,7 @@
 * Wasting time with other technology related things.
 * Sleep (?) Eat (?)
 * TL;DR I keep learning things.
+
 ## During my free time
 * Play video games
 * Gym
