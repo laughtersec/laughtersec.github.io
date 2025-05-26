@@ -1,8 +1,8 @@
 
 | Sr. No. | Machine                           |
 | ------- | --------------------------------- |
-| 1       | [FunBoxEasy](#Funbox)             |
-| 2       | [FunBoxEasyEnum](#FunboxEasyEnum) |
+| 1       | [FunboxEasy](#Funbox)             |
+| 2       | [FunboxEasyEnum](#FunboxEasyEnum) |
 
 # Funbox
 
