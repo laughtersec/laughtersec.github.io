@@ -228,9 +228,7 @@ Wordpress Plugin wpDiscuz 7.0.4 - Unauthenticated Arbitrary File Upload (Metaspl
 ----------------------------------------------------------------------------------- ---------------------------------
 ```
 
-Seems we already have the exploit with us. And the version perfectly matches. But lets read more about it. 
-
-![[https://www.acunetix.com/vulnerabilities/web/wordpress-plugin-comments-wpdiscuz-arbitrary-file-upload-7-0-4/]]
+Seems we already have the exploit with us. And the version perfectly matches. [But lets read more about it](https://www.acunetix.com/vulnerabilities/web/wordpress-plugin-comments-wpdiscuz-arbitrary-file-upload-7-0-4/).
 
 Seems like an Arbitrary File Upload in this plugin's "comments" feature.
 
