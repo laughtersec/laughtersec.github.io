@@ -48,7 +48,7 @@ http://easy/store/admin_add.php -> File upload functionality here
 
 http://easy/store/admin_edit.php?bookisbn=978-1-49192-706-9 -> Changing the book file to `php-rev-shell.php` here... Make sure to set the right publisher_id to successfully add a new book, refer to the database.
 
-![](png/vulnhub_easy.png)
+![](png/vulnhub_funboxeasy.png)
 
 ## Exploitation
 
