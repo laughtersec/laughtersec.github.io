@@ -105,7 +105,7 @@ Finished
 Another web resource was found which was initially missed.
 ### http://funboxeasyenum/mini.php
 
-![](png/funboxeasyenum-mini-shell.png)
+![](../png/funboxeasyenum-mini-shell.png)
 
 It seems like this resource lets the user upload files to `/var/www/html` which is fortunately the web root, because we can upload `php-reverse-shell` and then access it to get a reverse shell.
 
@@ -136,7 +136,7 @@ It seems like this resource lets the user upload files to `/var/www/html` which 
 
 After editing, we can upload it to `mini.php`. It should reflect after uploading
 
-![](png/funboxeasyenum-uploaded.png)
+![](../png/funboxeasyenum-uploaded.png)
 
 Starting a listener, we access the resource.
 
