@@ -4,7 +4,7 @@
 | 1       | <a href="#Funbox"> Funbox </a>    |
 | 2       | <a href="#FunboxEasyEnum"> FunboxEasyEnum </a> |
 
-# <a href=#>Funbox</a>
+# Funbox
 
 ## Nmap scan
 
