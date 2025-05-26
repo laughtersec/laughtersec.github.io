@@ -55,7 +55,7 @@ http://funboxeasy/store/admin_add.php -> File upload functionality here
 
 http://funboxeasy/store/admin_edit.php?bookisbn=978-1-49192-706-9 -> Changing the book file to `php-rev-shell.php` here... Make sure to set the right publisher_id to successfully add a new book, refer to the database.
 
-![](vulnhub_funboxeasy.png)
+![](png/vulnhub_funboxeasy.png)
 
 ## Exploitation
 
@@ -71,6 +71,7 @@ gym/admin: asdfghjklXXX
 `gym/admin` credentials work here -> http://funboxeasy/admin/home.php
 
 SSH using tony's credentials
+
 ## Privilege Escalaltion
 
 ```shell
@@ -115,13 +116,6 @@ root@funbox3:/home/tony# cat /root/proof.txt
 ```
 
 # FunboxEasyEnum
-
----
-tags:
-  - intermediate
-  - linux
-  - enum
----
 
 ## Nmap scan
 
@@ -228,9 +222,10 @@ Finished
 Another web resource was found which was initially missed.
 ### http://funboxeasyenum/mini.php
 
-![](funboxeasyenum-mini-shell.png)
+![](png/funboxeasyenum-mini-shell.png)
 
 It seems like this resource lets the user upload files to `/var/www/html` which is fortunately the web root, because we can upload `php-reverse-shell` and then access it to get a reverse shell.
+
 ## Exploitation
 
 ```php
@@ -258,7 +253,7 @@ It seems like this resource lets the user upload files to `/var/www/html` which 
 
 After editing, we can upload it to `mini.php`. It should reflect after uploading
 
-![](funboxeasyenum-uploaded.png)
+![](png/funboxeasyenum-uploaded.png)
 
 Starting a listener, we access the resource.
 
