@@ -4,6 +4,6 @@
 
 | Sr. No. | Resource                                               |
 | ------- | ------------------------------------------------------ |
-| 1       | [VulnHub Writeups](pages/VulnHub/VulnHubWriteups.html) |
+| 1       | [VulnHub Writeups](pages/vulnhub-writeups.html)        |
 | 2       |                                                        |
 
