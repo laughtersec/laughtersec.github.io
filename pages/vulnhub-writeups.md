@@ -96,12 +96,12 @@ User tony may run the following commands on 3:
     (root) NOPASSWD: /usr/bin/pkexec
     (root) NOPASSWD: /usr/bin/mtr
     (root) NOPASSWD: /usr/bin/finger
-    (root) NOPASSWD: /usr/bin/time
+    (root) NOPASSWD: /usr/bin/
     (root) NOPASSWD: /usr/bin/cancel
     (root) NOPASSWD: /root/a/b/c/d/e/f/g/h/i/j/k/l/m/n/o/q/r/s/t/u/v/w/x/y/z/.smile.sh
 ```
 
-[time | GTFOBins](https://gtfobins.github.io/gtfobins/time/#sudo)
+[time - GTFOBins](https://gtfobins.github.io/gtfobins/time/#sudo)
 
 ```shell
 tony@3:~$ sudo time /bin/bash
