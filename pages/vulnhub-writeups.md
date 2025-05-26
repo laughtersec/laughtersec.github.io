@@ -1,17 +1,10 @@
 
 | Sr. No. | Machine                           |
 | ------- | --------------------------------- |
-| 1       | [FunboxEasy](#Funbox)             |
-| 2       | [FunboxEasyEnum](#FunboxEasyEnum) |
+| 1       | <a href="#Funbox"> Funbox </a>    |
+| 2       | <a href="#FunboxEasyEnum"> FunboxEasyEnum </a> |
 
 # Funbox
-
----
-tags:
-  - Easy
-  - linux
-  - enum
----
 
 ## Nmap scan
 
