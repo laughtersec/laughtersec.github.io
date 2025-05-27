@@ -3,6 +3,9 @@ tags:
   - linux
   - Easy
 ---
+
+# Gaara
+
 ## Setup
 
 ```shell
