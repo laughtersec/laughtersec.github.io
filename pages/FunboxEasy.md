@@ -1,4 +1,4 @@
-# Funbox
+# FunboxEasy
 
 ## Nmap scan
 
