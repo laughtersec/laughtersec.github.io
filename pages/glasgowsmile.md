@@ -428,7 +428,7 @@ Of course, because it is a hidden (not-so-hidden) file with executable permissio
 After starting a listener, I got a shell in a few moments.
 
 ```shell
-nc -lvnp 4444
+$ nc -lvnp 4444
 connect to [192.168.45.181] from (UNKNOWN) [192.168.234.79] 58026
 
 ok
