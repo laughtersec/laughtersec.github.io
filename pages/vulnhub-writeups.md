@@ -7,3 +7,4 @@
 | 3       | [Blogger](blogger.html)               | Hard                    |
 | 4       | [Gaara](gaara.html)                   | Easy                    |
 | 5       | [Monitoring](monitoring.html)         | Intermediate            |
+| 6       | [GlasgowSmile](glasgowsmile.html)     | Hard                    |
