@@ -5,5 +5,5 @@
 | Sr. No. | Resource                                               |
 | ------- | ------------------------------------------------------ |
 | 1       | [VulnHub Writeups](pages/vulnhub-writeups.html)        |
-| 2       |                                                        |
+| 2       | [CTF Writeups](pages/ctf-writeups.html)                |
 
