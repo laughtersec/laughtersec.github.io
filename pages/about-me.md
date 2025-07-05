@@ -11,6 +11,7 @@
 ## Outside my free time
 * Prepare for OSCP
 * Job
+* [Fuzzing and Reversing](https://github.com/laughtersec/Fuzzing-Reversing)
 * MalDev
 * Component Object Model
 * Windows Internals
