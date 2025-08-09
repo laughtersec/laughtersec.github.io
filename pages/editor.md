@@ -1,1 +1,1 @@
-# <center> LET IF F&#$!N5 RETIRE FIRST, DIY!</center>
+# <center> LET IT F&#$!N5 RETIRE FIRST, DIY!</center>
