@@ -2,4 +2,4 @@
 
 | Sr. No. | Machine Name                          | Difficulty  |
 | ------- | ------------------------------------- | ----------- |
-| 1       | Editor                                | Easy        |
+| 1       | [Editor](htb-editor.html)             | Easy        |
