@@ -6,4 +6,4 @@
 | ------- | ------------------------------------------------------ |
 | 1       | [VulnHub Writeups](pages/vulnhub-writeups.html)        |
 | 2       | [CTF Writeups](pages/ctf-writeups.html)                |
-
+| 3       | [HTB Writeups](pages/htb-writeups.html)                |
