@@ -15,7 +15,7 @@
 * MalDev
 * Component Object Model
 * Windows Internals
-* [Active Directory](https://github.com/laughtersec/active-directory)
+* [Active Directory](https://laughtersec.github.io/active-directory-notes)
 
 ## When I can't tell whether I have free time
 * [pwn.college](https://pwn.college/hacker/43066)
