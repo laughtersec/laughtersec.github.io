@@ -1,4 +1,4 @@
-<center> # Thoughts </center>
+<center><h1>Thoughts</h1></center>
 
 ## What makes me tick
 Human life is blessed and cursed with five senses - sight, hearing, taste, smell and touch. It is the very basis of everything we know and understand.
