@@ -1,6 +1,7 @@
 <center><h1>Sitemap</h1></center>
 
 * [About Me](pages/about-me.html)
+* [Thoughts](pages/thoughts.html)
 
 | Sr. No. | Resource                                               |
 | ------- | ------------------------------------------------------ |
