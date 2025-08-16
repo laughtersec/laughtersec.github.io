@@ -14,3 +14,5 @@ Now I get that its harsh that all juveniles are expected to grasp things as fast
 So it doesn't matter if you're slow, behind everyone else and struggling to get where everyone else is. As long as you're putting in the effort, you're better than a majority who don't.
 
 The bottom line? A little discipline, persistence and a strong will will always triumph, regardless of where you ideally fit or what your pitfalls are.
+
+---
