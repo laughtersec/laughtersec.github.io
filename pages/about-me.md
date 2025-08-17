@@ -19,7 +19,7 @@
 
 ## When I can't tell whether I have free time
 * [pwn.college](https://pwn.college/hacker/43066)
-* [HackTheBox](https://app.hackthebox.com/profile/1454964)
+* [HackTheBox](https://laughtersec.github.io/htb-writeups)
 * Distro hopping
 * Wasting time with other technology related things.
 * Sleep (?) Eat (?)
