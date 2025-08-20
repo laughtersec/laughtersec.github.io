@@ -19,7 +19,7 @@ The bottom line? A little discipline, persistence and a strong will will always 
 
 ## Environment
 
-When we talk about wildlife and its extension, it's generally the lack of a habital place for those poor animals to live in, in which they have been thriving, which has been main reason for their existence. Some intelligent creatures learn to adapt, finding their way to co-exist with a slightly unfavorable surrounding.But the more "wild" ones struggle, and often perish.
+When we talk about wildlife and its extension, it's generally the lack of a habitable place for those poor animals to live in, in which they have been thriving, which has been main reason for their existence. Some intelligent creatures learn to adapt, finding their way to co-exist with a slightly unfavorable surrounding.But the more "wild" ones struggle, and often perish.
 
 The same can be said for a human being. Fortunately, we are intelligent enough to survive even in the most sickening places. We are given the tools to make our own tools to make our lives easier and less painful. Our greatest, yet underrated tool, is communication. 
 
