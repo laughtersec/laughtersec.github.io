@@ -23,7 +23,7 @@ When we talk about wildlife and its extinction, it's generally the lack of a hab
 
 The same can be said for a human being. Fortunately, we are intelligent enough to survive even in the most sickening places. We are given the tools to make our own tools to make our lives easier and less painful. Our greatest, yet underrated tool, is communication. 
 
-Unfortunately, when we speak any language, there's a second, abstract language that we also convey simultaneously. Some perceive it well, some don't see the point of it, and some don't see it at all. This disparity can lead to a lot of misunderstandings, and therefore catastrophic mishappenings, which could indirectly result in an unfavorable environment for all.
+Unfortunately, when we speak any language, there's a second, abstract language that we also convey simultaneously. Some perceive it well, some don't see the point of it, and some don't see it at all. This disparity can lead to a lot of misunderstandings, and therefore catastrophic mishappenings, which could indirectly result in an unfair, unfavorable environment for all.
 
 Picture a skilled knight with his sword and armor in a village full of harmless traders, a genius in a room full of imposters and liars, a lion among a group of hyenas... What is common in them? They are all alone and wasted potential.
 
