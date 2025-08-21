@@ -12,7 +12,7 @@
 * Prepare for OSCP
 * Job
 * [Fuzzing and Reversing](https://github.com/laughtersec/Fuzzing-Reversing)
-* MalDev
+* [MalDev](https://laughtersec.github.com/warez)
 * Component Object Model
 * Windows Internals
 * [Active Directory](https://laughtersec.github.io/active-directory-notes)
