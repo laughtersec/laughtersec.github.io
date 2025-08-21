@@ -27,6 +27,6 @@
 
 ## During my free time
 * Play video games
-* Gym
+* Gym (? :D) 
 * Martial Arts
-* Work on this damn site (?)
+* Work on this damn site
