@@ -1,6 +1,8 @@
 <center><h1>Thoughts</h1></center>
+---
 
 ## What makes me tick
+
 Human life is blessed and cursed with five senses - sight, hearing, taste, smell and touch. It is the very basis of everything we know and understand.
 When you're learning something specific, you often have to put aside your naturally stronger senses to acquire competence in another.
 You're often told as a child to "find what you like". What it really means is understanding your strengths so that you fit into certain roles better. 
@@ -28,5 +30,27 @@ Unfortunately, when we speak any language, there's a second, abstract language t
 Picture a skilled knight with his sword and armor in a village full of harmless traders, a genius in a room full of imposters and liars, a lion among a group of hyenas... What is common in them? They are all alone and wasted potential.
 
 What does man feel when he is wasted potential?
+
+---
+
+## Concerts and performances
+
+"Music is the arrangement of sound to create some combination of form, harmony, melody, rhythm, or **otherwise expressive content**. Music is generally agreed to be a cultural universal that is present in **all human societies**."
+
+Lets talk about society.
+
+When was the last time your actions weren't *for* the benefit of someone else?
+- Can you buy a house in this day and age for yourself? No, but someone can.
+- Do you always get the credit you deserve? No, someone else does.
+- You benefit only when it benefits someone else too? Conveniently.
+- Autonomy is perceived as rebellion? Yes, that would mean someone can't benefit from you.
+
+If someone "plays the wrong note", they're frowned upon for ruining harmony. But if you don't dance to the tunes regardless, you're out of the act.
+
+We put our headphones to listen to music we like, but what we really are just trying to do is shut off the "music" that seeks to dictate our actions. Maybe we are tired of "helping" the collective in exchange for a currency that *also* benefits someone else whilst eroding the self.
+
+Even a lot of us in our professions are given the illusion that we are making a difference. But that is just another symphony that will quickly die out with a wake-up call.
+
+What your life really is is just a show, a musical. Carry on, keep dancing :)
 
 ---
