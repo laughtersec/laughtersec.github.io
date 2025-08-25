@@ -1,4 +1,5 @@
 <center><h1>Thoughts</h1></center>
+
 ---
 
 ## What makes me tick
