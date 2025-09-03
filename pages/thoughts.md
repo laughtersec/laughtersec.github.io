@@ -55,3 +55,19 @@ Even a lot of us in our professions are given the illusion that we are making a 
 What your life really is is just a show, a musical. Carry on, keep dancing :)
 
 ---
+
+## Reflections of your influence
+
+We often find it hard to preserve things in the ever changing landscape of life. New people, new places, new everything.
+
+Even you're not the same person you were yesterday. Do you need to be? Well, yes and no. 
+
+Yes, because if you don't, you can't expect to learn anything beyond what you know, or think beyond what you already can. There is growth in change, expansion of your comfort zone, greater tolerance to information you can process, and explore new limitations to test. Your survival does rely on this factor.
+
+No, because your integrity dies by a thousand cuts everyday, if you have any. If you're a person who is easily influenced by something or someone, you often pick up their neurolinguistics and traits, become like them, then attract the same kind of circumstances as them. You **inherit** what they're feeling, their likes and dislikes and so many other things that just aren't you. Everyday you sleep, you wake up to become more and more like this person who you probably look up to. But this isn't necessarily always a bad thing.
+
+Your folks always warn you about who you hang out with, and it is for this reason. But ultimately, you hangout with what you think should be your life; you don't ever fully lead your own life.
+
+On the flip side, beware of people who look up to you. They have the potential to hamper your growth, they are more and more becoming the old you, and they can't keep up. Most will parrot you until they find someone else, or when they find their own voice. Do not be heartbroken when they do.
+
+---
