@@ -71,3 +71,5 @@ Your folks always warn you about who you hang out with, and it is for this reaso
 On the flip side, beware of people who look up to you. They have the potential to hamper your growth, they are more and more becoming the old you, and they can't keep up. Most will parrot you until they find someone else, or when they find their own voice. Do not be heartbroken when they do.
 
 ---
+
+## Weaponizing conscience
