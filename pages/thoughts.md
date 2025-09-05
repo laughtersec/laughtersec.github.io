@@ -60,7 +60,7 @@ What your life really is is just a show, a musical. Carry on, keep dancing :)
 
 We often find it hard to preserve things in the ever changing landscape of life. New people, new places, new everything.
 
-Even you're not the same person you were yesterday. Do you need to be? Well, yes and no. 
+Even you're not the same person you were yesterday. Do you need to be a different person? Well, yes and no. 
 
 Yes, because if you don't, you can't expect to learn anything beyond what you know, or think beyond what you already can. There is growth in change, expansion of your comfort zone, greater tolerance to information you can process, and explore new limitations to test. Your survival does rely on this factor.
 
