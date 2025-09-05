@@ -72,4 +72,4 @@ On the flip side, beware of people who look up to you. They have the potential t
 
 ---
 
-## Weaponizing conscience
+## Weaponizing the conscience
