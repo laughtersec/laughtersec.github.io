@@ -73,3 +73,22 @@ On the flip side, beware of people who look up to you. They have the potential t
 ---
 
 ## Weaponizing the conscience
+---
+## Blood, sweat and tears
+
+4 billion years ago, asteroids collided with the Earth's surface which resulted in about 1 million tons of gold just on the top kilometer of the Earth's surface. Imagine the sheer amount beneath it that is untouched by human hands. We pull out our shovels and start digging to find this priceless element, capitalize it. Why? Its just a shiny metal with no major use (other than perhaps building essential components for computers on a mass scale, but what if we never got to the point of using computers so widely?). It symbolifies "permanence", like an unbroken promise.
+
+But would it ever have any value if it was *easily* available like water? (Which is also quite priceless, especially for the survival of life). The answer is no. It would have been taken for granted.
+
+The only thing that has any solid value is something that doesn't come easily. It only has value when something is sacrificed. 
+
+Someday, the air that you breathe and the water you drink could become the next gold. Wars will be fought, blood will be spilled, tears will be shed just for those ounces. But this is a dystopian future that still has time to reach us. 
+
+What about our current lives? Are we sacrificing several things for something that doesn't come easy? Or are we looking for quick success and reward with little to no effort?
+
+Are we objectively looking at ourselves and accepting the truth or are we just turning our sails based off the whims of the world?
+Are we so insecure about ourselves that we choose to become like everybody else because its validated?
+Is our self-esteem so low that we don't think we can be something more?
+
+The first step to evolve is to have the will to sacrifice. The will to fight comfort. Is there any will left?
+---
