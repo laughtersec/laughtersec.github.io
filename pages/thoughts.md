@@ -92,4 +92,6 @@ Is our self-esteem so low that we don't think we can be something more?
 
 The first step to evolve is to have the will to sacrifice. The will to fight comfort. Is there any will left?
 
+The will, is gold.
+
 ---
