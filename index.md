@@ -10,3 +10,4 @@
 | 3       | [HTB Writeups](https://laughtersec.github.io/htb-writeups/)             |
 | 4       | [Malware](https://laughtersec.github.io/warez)                          |
 | 5       | [Active Directory](https://laughtersec.github.io/active-directory-notes)|
+| 6       | [Component Object Model](https://laughtersec.github.io/com)             |
