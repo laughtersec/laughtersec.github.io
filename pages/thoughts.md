@@ -95,3 +95,19 @@ The first step to evolve is to have the will to sacrifice. The will to fight com
 The will, is gold.
 
 ---
+
+## Truths, Ideals, Standards and Accuracy
+
+In these times of information overload, it is often difficult to deduce or differentiate fact from fiction and truths from lies. We may also face a wavering conscience. But there is one thing that is indeed true... The more you know, the more you know you don't know. 
+
+In the field of computer science, when we talk about truths, the concept of a "truth table" comes to our minds. A function or an operation that has a fixed result based on one or more inputs.
+
+The human mind could arguably be considered a large truth table with an infinite amount of outputs based on an infinite amount of inputs. But what is it's significance? It is output formed from years of experiencing things, the experience being input parameters. Obviously, it's not as simple as a 3 row 3 column truth table, and neither are the inputs just 1s and 0s. But a person without his own table has no identity or personality.
+
+It is also fact that between the outcome and the input lies a mathematical operation. But sadly, this is abstract without a bit of "soul searching". And we all live our lives trying to map out our truth tables, in an attempt to define ourselves at every moment, as it is essential for our survival. But never do we figure out the math behind it, only a table that defines what you give and take... Similar to what we call a reputation.
+
+And it is because of these shortcoming that we look for specific entries in someone's table and deduce whether they (an instruction) fits well in society (a system).
+
+A phenomenon beyond our understanding has given us a chance, and free will, to set our truth tables and understand ourselves better. This is also important to form a better society. Let's not throw it away while we're at it.
+
+---
