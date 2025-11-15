@@ -1,6 +1,5 @@
 # About Me
 * Crazed about cybersecurity since 2018.
-* Plays CTF with Team-915.
 * Plays HackTheBox with BotNetBuddies.
 
 # Certs
