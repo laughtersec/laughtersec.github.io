@@ -106,7 +106,7 @@ The human mind could arguably be considered a large truth table with an infinite
 
 It is also fact that between the outcome and the input lies a mathematical operation. But sadly, this is abstract without a bit of "soul searching". And we all live our lives trying to map out our truth tables, in an attempt to define ourselves at every moment, as it is essential for our survival. But never do we figure out the math behind it, only a table that defines what you give and take... Similar to what we call a reputation.
 
-And it is because of these shortcomings that we look for specific entries in someone's table and deduce whether they (an instruction) fits well in society (a system).
+And it is because of these shortcomings that we look for specific entries in someone's table and deduce whether they (an instruction) fit well in society (a system).
 
 A phenomenon beyond our understanding has given us a chance, and free will, to set our truth tables and understand ourselves better. This is also important to form a better society. Let's not throw it away while we're at it.
 
