@@ -13,7 +13,7 @@
 * Job
 * [Fuzzing and Reversing](https://github.com/laughtersec/Fuzzing-Reversing)
 * [MalDev](https://laughtersec.github.io/warez)
-* Component Object Model
+* [Component Object Model](https://laughtersec.github.io/com)
 * Windows Internals
 * [Active Directory](https://laughtersec.github.io/active-directory-notes)
 
