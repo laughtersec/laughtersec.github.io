@@ -20,13 +20,11 @@
 ## When I can't tell whether I have free time
 * [pwn.college](https://pwn.college/hacker/43066)
 * [HackTheBox](https://laughtersec.github.io/htb-writeups)
-* Distro hopping
 * Wasting time with other technology related things.
-* Sleep (?) Eat (?)
 * TL;DR I keep learning things.
 
 ## During my free time
 * Play video games
 * Gym (? :D) 
-* Martial Arts
+* Martial Arts (?)
 * Work on this damn site
